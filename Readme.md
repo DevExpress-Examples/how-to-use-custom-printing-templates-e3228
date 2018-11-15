@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/GridExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/GridExample/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/GridExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GridExample/MainWindow.xaml.vb))
+* [TestData.cs](./CS/GridExample/Model/TestData.cs) (VB: [TestData.vb](./VB/GridExample/Model/TestData.vb))
+* [PrintingTempates.xaml](./CS/GridExample/Themes/PrintingTempates.xaml) (VB: [PrintingTempates.xaml](./VB/GridExample/Themes/PrintingTempates.xaml))
+<!-- default file list end -->
 # How to use custom printing templates
 
 
